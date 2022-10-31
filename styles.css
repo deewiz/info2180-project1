@@ -145,7 +145,6 @@ body {
   .stories img {
     border-radius: 100px;
     object-fit: cover;
-    align-self: center;
   }
   
   /*Sign up for news letter*/
